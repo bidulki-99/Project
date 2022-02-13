@@ -1,4 +1,4 @@
-# 3. English Typing Practice
+# 3. Korean Typing Practice
 
 ### Formula
 * current accuracy = the number of identical letters / the length of current sentence * 100
