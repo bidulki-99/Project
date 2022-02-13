@@ -17,7 +17,7 @@ accuracy = 0
 count = 1
 highest_speed = 0
 while True:
-    typing = quotes[random.randint(0, len(quotes))]
+    typing = quotes[random.randint(0, len(quotes) - 1)]
     print('%d: %s' % (count, typing[0]))
     print('%d: ' % count, end = '')
     time1 = time.time()
